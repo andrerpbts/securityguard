@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: SecurityGuard by Tech
+title: <span class="fs-4 v-align-text-bottom">SecurityGuard</span> <span class="fs-2 text-grey-dk-000 pl-2 v-align-text-bottom">by Tech</span>
 email: andrerpbts@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   SecurityGuard by Tech is a SDK designed to offer the highest level of cybersecurity for your devices' app authentications.
-baseurl: "/securityguard" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://andrerpbts.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: andrerpbts
 
