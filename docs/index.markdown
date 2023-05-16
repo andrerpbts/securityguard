@@ -5,8 +5,6 @@
 layout: home
 ---
 
-# Secure Your Apps with SecurityGuard by Tech
-
 SecurityGuard by Tech is a SDK designed to offer the highest level of cybersecurity for your
 devices' app authentications.
 
