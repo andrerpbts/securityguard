@@ -27,7 +27,7 @@ url: "https://andrerpbts.github.io" # the base hostname & protocol for your site
 github_username: andrerpbts
 
 # Build settings
-theme: minima
+theme: just-the-docs
 plugins:
   - jekyll-feed
   - github-pages
