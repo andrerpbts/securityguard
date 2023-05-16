@@ -27,7 +27,7 @@ url: "https://andrerpbts.github.io" # the base hostname & protocol for your site
 github_username: andrerpbts
 
 # Build settings
-theme: just-the-docs
+remote-theme: remote_theme: just-the-docs/just-the-docs@v0.5.1
 plugins:
   - jekyll-feed
   - github-pages
